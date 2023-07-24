@@ -68,7 +68,7 @@ const RegisterScreen = () => {
     return (
         <View style={{ position:"relative",
         flex:1}}>
-        <View style={{backgroundColor:"green",flex:1,
+        <View style={{flex:1,
         position:"relative",
         paddingHorizontal:0,paddingVertical:20,flexDirection:"row",
         justifyContent:"center",alignItems:"center",backgroundColor:"white"}}>
